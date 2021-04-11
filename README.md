@@ -23,16 +23,17 @@ A drum machine built using React.
 This is a React drum machine built as part of the freeCodeCamp curriculum.
 
 ## Future Feature Ideas
-* Make mobile friendly
-* Add record and play features
+
+- Make mobile friendly
+- Add record and play features
 
 ## Installation
 
-[Click here](davidkuyk.github.io/drummachine/) to go to the site. Or, if you want to clone this repository, open your terminal and type:
+[Click here](https://davidkuyk.github.io/drummachine/) to go to the site. Or, if you want to clone this repository, open your terminal and type:
 
 ```sh
-$ git clone https://github.com/davidkuyk/drumMachine.git
-$ cd drumMachine
+git clone https://github.com/davidkuyk/drumMachine.git
+cd drumMachine
 ```
 
 ## Scaffolding
@@ -48,7 +49,7 @@ drumMachine
 
 ## Usage
 
-* Hit the keys that correspond to the pads on the drum pad and have a blast!
+- Hit the keys that correspond to the pads on the drum pad and have a blast!
 
 ## Bugs
 
@@ -56,7 +57,7 @@ If you have questions, feature requests or a bug you want to report, please clic
 
 ## Author
 
-* [**David Kuyk**](https://www.davidkuyk.github.io/) [![GitHub followers](https://img.shields.io/github/followers/davidkuyk.svg?style=social)](https://github.com/davidkuyk)
+- [**David Kuyk**](https://www.davidkuyk.github.io/) [![GitHub followers](https://img.shields.io/github/followers/davidkuyk.svg?style=social)](https://github.com/davidkuyk)
 
 ## License
 
